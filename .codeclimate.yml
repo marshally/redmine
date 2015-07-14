@@ -1,0 +1,9 @@
+engines:
+  rubocop:
+    enabled: true
+  coffeelint:
+    enabled: true
+ratings:
+  paths:
+  - app/**
+  - lib/**
